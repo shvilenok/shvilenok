@@ -1,9 +1,10 @@
 ### Hi 👋, I'm Anastasia
 
-📫 How to reach me Linkedin Badge
+📫 How to reach me anastasia.papishvili@gmail.com
 📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit)
+  💬 telegram: @papishvil  
+  💬[LinkedIn](https://www.linkedin.com/in/papishvili/)
 
-![image|100](https://github.com/shvilenok/shvilenok/assets/43793366/5d92d615-c7a2-4989-8be0-d6ecf5653059) telegram: @papishvil
 
 
 <!--
