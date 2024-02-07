@@ -4,9 +4,8 @@
 
 📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit)
 
-<img src="https://github.com/shvilenok/shvilenok/assets/43793366/c20395a5-8c9d-43b1-a17d-ea97edeb9b40" alt="@papishvil" width="4" height="4">
+<img src="https://github.com/shvilenok/shvilenok/assets/43793366/c20395a5-8c9d-43b1-a17d-ea97edeb9b40" alt="@papishvil" width="30" height="30">
 
-  💬 ![image]() 
   
   
   💬 ![image](https://github.com/shvilenok/shvilenok/assets/43793366/fc62d9c4-bd9d-4b05-afb0-ff8864030f53)    [LinkedIn](https://www.linkedin.com/in/papishvili/)
