@@ -3,7 +3,7 @@
 📫 How to reach me Linkedin Badge
 📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit)
 
-![image](https://github.com/shvilenok/shvilenok/assets/43793366/5d92d615-c7a2-4989-8be0-d6ecf5653059) telegram: @papishvil
+![image|100](https://github.com/shvilenok/shvilenok/assets/43793366/5d92d615-c7a2-4989-8be0-d6ecf5653059) telegram: @papishvil
 
 
 <!--
