@@ -1,8 +1,12 @@
 ### Hi 👋, I'm Anastasia
 
 📫 How to reach me anastasia.papishvili@gmail.com
+
 📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit)
+
+
   💬 telegram: @papishvil  
+  
   💬[LinkedIn](https://www.linkedin.com/in/papishvili/)
 
 
