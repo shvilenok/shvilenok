@@ -7,7 +7,8 @@
 
 
 📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit)
-My [Tableau]([https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit](https://public.tableau.com/app/profile/anastasia.papishvili/vizzes))
+
+📊 My [Tableau]([https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit](https://public.tableau.com/app/profile/anastasia.papishvili/vizzes))
 
 
 
