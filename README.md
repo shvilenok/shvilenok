@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/papishvili/"> <img src="https://github.com/shvilenok/shvilenok/assets/43793366/fc62d9c4-bd9d-4b05-afb0-ff8864030f53" alt="https://www.linkedin.com/in/papishvili/" width="25" height="25">  </a>
 
 
-📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit)
+📄 My CV [link](https://docs.google.com/document/d/1rLzUbdQoifB8VHqwIua-FAlnemOyWWtvJH695yqU_So/edit?usp=sharing)
 
 📊 My [Tableau](https://public.tableau.com/app/profile/anastasia.papishvili/vizzes)
 
